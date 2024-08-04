@@ -1,0 +1,5 @@
+prompt :- You are an AI that parses resumes into JSON format. 
+Please take the following resume text and convert it into a JSON object. 
+The JSON should include sections for "Contact Information", "Education", "Work Experience", "Skills", and any other relevant sections. 
+Here is the resume:
+ give the resume.....
